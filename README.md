@@ -1,0 +1,2 @@
+# superQuerys
+ querys utiles
